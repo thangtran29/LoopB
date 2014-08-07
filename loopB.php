@@ -102,7 +102,7 @@ and open the template in the editor.
                 });
             });
 
-        </script>
+        </script> 
         <style>
             ul {
                 list-style-type: none;
